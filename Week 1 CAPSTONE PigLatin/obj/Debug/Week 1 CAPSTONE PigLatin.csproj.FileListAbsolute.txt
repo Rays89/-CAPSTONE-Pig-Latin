@@ -1,0 +1,6 @@
+C:\Users\Rachael\source\repos\Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin\obj\Debug\Week 1 CAPSTONE PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Rachael\source\repos\Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin\bin\Debug\Week 1 CAPSTONE PigLatin.exe.config
+C:\Users\Rachael\source\repos\Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin\bin\Debug\Week 1 CAPSTONE PigLatin.exe
+C:\Users\Rachael\source\repos\Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin\bin\Debug\Week 1 CAPSTONE PigLatin.pdb
+C:\Users\Rachael\source\repos\Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin\obj\Debug\Week 1 CAPSTONE PigLatin.exe
+C:\Users\Rachael\source\repos\Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin\obj\Debug\Week 1 CAPSTONE PigLatin.pdb

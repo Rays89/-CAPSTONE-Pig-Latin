@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 1 CAPSTONE PigLatin", "Week 1 CAPSTONE PigLatin\Week 1 CAPSTONE PigLatin.csproj", "{10441044-0C44-4939-A13F-AE2BE41970BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10441044-0C44-4939-A13F-AE2BE41970BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10441044-0C44-4939-A13F-AE2BE41970BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10441044-0C44-4939-A13F-AE2BE41970BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10441044-0C44-4939-A13F-AE2BE41970BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5623D4-4130-4D3E-A270-8F1C04F8C3BC}
+	EndGlobalSection
+EndGlobal
